@@ -1,1 +1,0 @@
-# IT20032692_ElectroGrid_Meter_Handling
